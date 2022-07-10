@@ -2,7 +2,9 @@
   "devDependencies": {
     "@polkadot/dev": "^0.67.67",
     "babel-jest": "^28.1.2",
-    "jest": "^28.1.2"
+    "jest": "^28.1.2",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
   },
   "scripts": {
     "test": "jest"
