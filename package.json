@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@polkadot/dev": "^0.67.67",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@polkadot/api": "^8.12.1",
+    "@polkadot/rpc-provider": "^8.12.1"
+  }
+}
