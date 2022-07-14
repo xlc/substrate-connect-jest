@@ -9,7 +9,8 @@
   },
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "start": "node --loader ts-node/esm src/index.ts",
+    "test": "mocha src/test.ts"
   },
   "dependencies": {
     "@polkadot/api": "^8.12.1",
